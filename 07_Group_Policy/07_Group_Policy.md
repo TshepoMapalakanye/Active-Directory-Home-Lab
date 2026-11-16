@@ -29,7 +29,7 @@ The measured state of the domain before any change:
 - Complexity: enabled
 - Password history: 24
 - Maximum age: 90 days
-- Minimum age: 30 day
+- Minimum age: 30 days
 - Minimum length: 7
 - Lockout threshold: 3 attempts
 - Lockout duration: 6 hours
