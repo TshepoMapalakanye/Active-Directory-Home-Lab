@@ -1,5 +1,7 @@
 # Active Directory Home Lab — Windows Server 2019 and Windows 10
 
+![The thirteen unit organisational unit structure after the build](06_Identity_Design/AD_OU_Structure_Final.png)
+
 A two-machine Windows domain built in Oracle VirtualBox: one Windows Server 2019 domain controller
 running AD DS, DNS, DHCP, RRAS and the print server, and one Windows 10 Pro client joined to it. The
 directory is then run like a small company — three departments, thirty staff, groups that carry the
